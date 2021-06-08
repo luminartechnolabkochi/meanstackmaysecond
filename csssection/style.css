@@ -1,0 +1,19 @@
+/* tagname or classname or id{
+    property:value;
+    propety:value2;
+    .....
+ } */
+
+ #logo{
+     color: purple;
+     text-align: center;
+     text-decoration: underline;
+ }
+ #mob{
+     color: red;
+ }
+
+
+ .mobiles{
+     color:#27b0ae;
+ }
